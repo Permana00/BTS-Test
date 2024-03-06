@@ -50,7 +50,7 @@ route.get(
 
     if (!data) {
       return res.status(404).json({
-        message: "Checklist not found!",
+        message: "checklistItem not found!",
       });
     }
 
@@ -93,7 +93,7 @@ route.put(
 
     if (!data) {
       return res.status(404).json({
-        message: "Checklist not found!",
+        message: "checklistItem not found!",
       });
     }
 
@@ -139,7 +139,7 @@ route.put(
 
     if (!data) {
       return res.status(404).json({
-        message: "Checklist not found!",
+        message: "checklistItem not found!",
       });
     }
 
@@ -198,7 +198,7 @@ route.delete(
 
     if (!data) {
       return res.status(404).json({
-        message: "Checklist not found!",
+        message: "checklistItem not found!",
       });
     }
 
