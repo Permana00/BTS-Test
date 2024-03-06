@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "Permana 123!",
+    "password": "",
     "database": "bts_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
